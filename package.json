@@ -28,6 +28,8 @@
     "jquery": "^3.3.1",
     "lodash": "^4.17.11",
     "popper.js": "^1.14.6",
+	"@angular/cli": "~7.2.2",
+    "@angular/compiler-cli": "~7.2.0",
     "rxjs": "~6.3.3",
     "tslib": "^1.9.0",
     "zone.js": "~0.8.26"
